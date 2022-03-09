@@ -10,7 +10,7 @@ header, footer {
   font-size: 1.5rem;
 }
 
-nav ul{
+nav ul {
   font-family: sans-serif;
 }
 
@@ -37,6 +37,7 @@ nav ul{
 #types {
   color: #93a1a1;
 }
+
 .wrapper > .dfn {
   background-color: #b58900;
 }
@@ -45,11 +46,11 @@ nav ul{
   color: #fff;
 }
 
-a:not(.no-highlight){
+a:not(.no-highlight) {
   background-color: #719e07;
 }
 
-[rel="external"]{
+[rel="external"] {
   background-color: #2694d8;
 }
 
